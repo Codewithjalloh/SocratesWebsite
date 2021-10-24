@@ -1,2 +1,2 @@
 # SocratesWebsite
-basic html and css website about socrates the philosopher. 
+html and css only website about socrates the philosopher. 
